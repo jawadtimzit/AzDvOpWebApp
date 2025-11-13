@@ -1,13 +1,10 @@
 # Build folders 
 bin/
 obj/
-
 # Visual Studio 
 .vs/
-
 #Dotnet
 *.user
 *.suo
-
 #Others
 *.cache
